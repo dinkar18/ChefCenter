@@ -14,6 +14,7 @@ recipe will not be uploaded in case of a missing field.
 the uploaded recipe will get uploaded to realtime database in it fields and image will be saved to firebase storage.
 all the recipes which we saw on homepage are coming from same realtime database and storage.
 so when a user upload a recipe, a new recipe will be added to the list of recipes.
+a user can search for a specific recipe using its name or category
 
 ----only admin-----
 
